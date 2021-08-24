@@ -1,0 +1,12 @@
+p { 
+    color: red;
+    font-size: 16px;
+}
+
+.hide {
+    display: none;
+}
+
+.disable-select:focus, .disable-select:active {
+    background-color: transparent;
+}
